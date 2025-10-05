@@ -170,3 +170,14 @@ MIT License - See LICENSE file for details
 **Star ⭐ this repo if you believe in the future of blockchain gaming!**
 
 </div>
+Deployed on Polygon Amoy Testnet (Chain ID: 80002)
+
+Contracts:
+- InceptionCharacters.sol (ERC-721 NFT)
+- BattleCore.sol (Battle resolution)
+- InceptionMarketplace.sol (P2P trading)
+
+Deployment info: See contracts/broadcast/ folder for addresses and tx hashes
+
+Character metadata/images: Hosted on GitHub at public/characters/
+

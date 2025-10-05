@@ -142,14 +142,7 @@ Mobile app (React Native), esports partnerships, DAO governance
 
 ---
 
-## 🏆 Achievements
 
-Built in [X] hours for [Hackathon Name]  
-Fully functional demo with deployed smart contracts  
-Complete frontend with 15+ pages and smooth animations  
-Comprehensive whitepaper with technical architecture  
-
----
 
 ## 👥 Team
 

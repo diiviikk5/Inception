@@ -84,7 +84,7 @@ cd Inception
 npm install
 npm run dev
 
-text
+.
 
 **Deploy Contracts:**
 
@@ -92,13 +92,13 @@ cd contracts
 forge build
 forge script script/Deploy.s.sol --rpc-url $AMOY_RPC_URL --broadcast --verify
 
-text
+.
 
 **Test Contracts:**
 
 forge test -vvv
 
-text
+.
 
 ---
 
@@ -134,7 +134,7 @@ Inception/
 │ └── characters/ # NFT images
 └── README.md
 
-text
+.
 
 ---
 
@@ -146,7 +146,7 @@ cd contracts
 forge test -vvv
 forge coverage
 
-text
+.
 
 **Frontend Testing:**
 
@@ -154,7 +154,7 @@ npm run test
 npm run build
 npm run preview
 
-text
+.
 
 **Contract Verification:**
 

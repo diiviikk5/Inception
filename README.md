@@ -112,55 +112,9 @@ forge test -vvv
 6. **Win Rewards** - Stats automatically update on-chain
 7. **Trade NFTs** - List on marketplace or buy stronger characters
 
----
 
-## 📂 Project Structure
 
-Inception/
-├── contracts/ # Solidity smart contracts
-│ ├── src/
-│ │ ├── InceptionCharacters.sol
-│ │ ├── BattleCore.sol
-│ │ └── InceptionMarketplace.sol
-│ └── script/
-│ └── Deploy.s.sol
-├── src/ # React frontend
-│ ├── pages/ # All game pages
-│ ├── components/ # Reusable UI components
-│ ├── utils/ # Battle engine logic
-│ └── data/ # AI opponents & characters
-├── public/
-│ ├── whitepaper.pdf
-│ └── characters/ # NFT images
-└── README.md
 
-.
-
----
-
-## 🧪 Testing & Verification
-
-**Smart Contract Tests:**
-
-cd contracts
-forge test -vvv
-forge coverage
-
-.
-
-**Frontend Testing:**
-
-npm run test
-npm run build
-npm run preview
-
-.
-
-**Contract Verification:**
-
-Contracts are verified on Polygon Amoy Explorer. View deployment artifacts in `contracts/broadcast/`.
-
----
 
 ## 🗺️ Roadmap
 

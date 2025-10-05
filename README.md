@@ -12,7 +12,7 @@
 
 ---
 
-### 🏆 Built for Hackathon with Passion • Where Skill Meets Blockchain
+
 
 </div>
 

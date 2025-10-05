@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=OMNICHAIN+BATTLE+ARENA;PROVABLY+FAIR+COMBAT;DYNAMIC+NFT+EVOLUTION" alt="Typing SVG" />
 
-[![Live Demo](https://inception-mu.vercel.app/ )
+[![Live Demo](https://img.shields.io/badge/🎮_PLAY_NOW-00FFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://inception-mu.vercel.app/)
 [![GitHub](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diiviikk5/Inception)
 [![Whitepaper](https://img.shields.io/badge/READ_DOCS-FF00FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/diiviikk5/Inception/blob/main/public/whitepaper.pdf)
 
